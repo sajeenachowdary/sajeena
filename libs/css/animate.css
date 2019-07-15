@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+
+.fullpage{
+    width:100%;
+    height:100vh;
+    position: absolute;
+
+    background-image:url('https://live.staticflickr.com/3877/15163804347_c28dce52fb_n.jpg');
+
+}
